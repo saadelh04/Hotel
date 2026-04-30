@@ -1,5 +1,5 @@
 import { services } from "../data/Service";
-import ServiceCard from "./ServiceCard";
+import ServiceCard from "./Servicecard";
 import style from "./Services.module.css";
 
 export default function Services() {
